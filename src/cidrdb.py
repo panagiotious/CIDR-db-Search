@@ -20,6 +20,11 @@ cc = Country Code
 reg = Registar
 network = Starting IP of CIDR
 prefix = CIDR
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+It is highly recomended to perform ALL needed search/
+update/delete operations after loading the CIDRs file.
+Loading the CIDRs pickle takes a lot of time, so
+consider loading only once!
 
 '''
 
