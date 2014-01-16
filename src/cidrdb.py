@@ -15,7 +15,7 @@ else:
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 asn = ASN
-ISP = ISP
+isp = ISP
 cc = Country Code
 reg = Registar
 network = Starting IP of CIDR
